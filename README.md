@@ -61,7 +61,7 @@ Cela confirme que Frida est bien installé et prêt à être utilisé.
 
 ## 4. Pic2 — Vérification de ADB et connexion de l’émulateur
 
-![Uploading pic2.png…]()
+<img width="731" height="154" alt="pic2" src="https://github.com/user-attachments/assets/a38fe74a-1e85-43d1-b508-304f378bb37f" />
 
 
 Cette capture montre la vérification de ADB avec la commande :
@@ -95,7 +95,11 @@ Cela confirme que l’émulateur Android est détecté et prêt pour le test.
 
 ## 5. Pic3 — Lancement de Medusa et sélection de l’application cible
 
-<img width="742" height="630" alt="pic3" src="https://github.com/user-attachments/assets/a0dd878f-d3a6-4604-9e14-e87b3584a790" />
+<img width="731" height="154" alt="pic2" src="https://github.com/user-attachments/assets/c0595b88-9f22-47b9-873e-1d3875391bf6" />
+
+<img width="742" height="630" alt="pic3" src="https://github.com/user-attachments/assets/635035c5-cb7d-4e0d-8de5-90ede7ab7713" />
+
+
 
 
 Cette capture montre le lancement de Medusa sur l’application cible :
